@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Entrar</string>
+    <string name="Website">website</string>
+    <string name="email">email</string>
+    <string name="ir">ir</string>
+    <string name="visitar">visitar</string>
+    <string name="Jogos">Ovagames</string>
+    <string name="destinatarios">Destinatario</string>
+    <string name="Mensagem">mensagem</string>
+    <string name="enviar">Enviar</string>
+    <string name="subject">Subject</string>
+</resources>
